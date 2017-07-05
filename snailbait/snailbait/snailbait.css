@@ -1,0 +1,13 @@
+body{
+    background-color: #6d6aff;
+}
+#arena{
+    width: 800px;
+    height: 400px;
+    /*外间距margin*/
+    margin: 0 auto;
+    margin-top: 50px;
+}
+#game-canvas {
+    border:2px dashed blue;
+}
