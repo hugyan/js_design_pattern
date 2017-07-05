@@ -1,0 +1,8 @@
+.legend-list{
+  display: flex;
+  flex-direction: column;
+}
+.legend-item{
+  margin: 25rpx;
+  font-size: 19px;
+}
