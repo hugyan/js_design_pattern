@@ -1,0 +1,2 @@
+@import "dist/weui.wxss";
+@import "public/font/iconfont.wxss"
